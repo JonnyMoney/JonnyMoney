@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan Narkis Porati
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning how to build an IDS
 - 💁‍♂️ I'm 17 years old from Ramat Gan, Israel
 - 💞️ My experience in programming is about 2+ years
 - 📫 How to reach me yonibilly@gmail.com, moneyjonny
