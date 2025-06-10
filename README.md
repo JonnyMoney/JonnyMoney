@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan Narkis Porati
 - 💁‍♂️ I'm 17 years old from Ramat Gan, Israel
-- 💞️ My experience in programming is about 2+ years
+- 💞️ My experience in programming is about 3+ years
 - 📫 How to reach me yonibilly@gmail.com, moneyjonny
 - ⚡ Fun fact: I can solve a rubix cube in under 30 seconds!
